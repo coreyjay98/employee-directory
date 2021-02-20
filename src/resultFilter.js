@@ -1,5 +1,4 @@
 const resultFilter = (employeeList, filter) => {
-  console.log('fuilly', filter);
   if (filter == 'nameAZ') {
     const sortAZ = employeeList.results.slice(0).sort(function (a, b) {
       if (a.name.first < b.name.first) {
