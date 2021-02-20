@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/coreyjay98/employee-directory/static/css/main.38151fc7.chunk.css",
+    "main.js": "/coreyjay98/employee-directory/static/js/main.9395b580.chunk.js",
+    "main.js.map": "/coreyjay98/employee-directory/static/js/main.9395b580.chunk.js.map",
+    "runtime-main.js": "/coreyjay98/employee-directory/static/js/runtime-main.6d50a126.js",
+    "runtime-main.js.map": "/coreyjay98/employee-directory/static/js/runtime-main.6d50a126.js.map",
+    "static/js/2.5431ffea.chunk.js": "/coreyjay98/employee-directory/static/js/2.5431ffea.chunk.js",
+    "static/js/2.5431ffea.chunk.js.map": "/coreyjay98/employee-directory/static/js/2.5431ffea.chunk.js.map",
+    "static/js/3.5f32c829.chunk.js": "/coreyjay98/employee-directory/static/js/3.5f32c829.chunk.js",
+    "static/js/3.5f32c829.chunk.js.map": "/coreyjay98/employee-directory/static/js/3.5f32c829.chunk.js.map",
+    "index.html": "/coreyjay98/employee-directory/index.html",
+    "static/css/main.38151fc7.chunk.css.map": "/coreyjay98/employee-directory/static/css/main.38151fc7.chunk.css.map",
+    "static/js/2.5431ffea.chunk.js.LICENSE.txt": "/coreyjay98/employee-directory/static/js/2.5431ffea.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/coreyjay98/employee-directory/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d50a126.js",
+    "static/js/2.5431ffea.chunk.js",
+    "static/css/main.38151fc7.chunk.css",
+    "static/js/main.9395b580.chunk.js"
+  ]
+}
